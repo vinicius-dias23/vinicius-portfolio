@@ -1,4 +1,4 @@
-// File: /Users/educbank/my-projects/Portfolio_Website_Design/vinicius_portfolio/app/app/portfolio/page.tsx
+// File: /Users/educbank/my-projects/vinicius-portfolio/app/portfolio/page.tsx
 import * as entry from '../../../../app/portfolio/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
